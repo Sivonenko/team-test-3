@@ -1,0 +1,12 @@
+.hero {
+  background-color: aquamarine;
+  padding: 120px 0;
+}
+.hero-title {
+  font-size: 30px;
+  color: azure;
+  margin-bottom: 30px;
+}
+.hero-text {
+  max-width: 300px;
+}
